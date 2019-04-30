@@ -1,3 +1,3 @@
 this is demo for git.
 just bypass.
-add sth by pycharm.
+add sth by brower.
